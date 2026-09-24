@@ -1,0 +1,7 @@
+# Third-party dependencies for inverter_sim_GUI.py
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+streamlit>=1.30  # required for main_streamlit.py
+# NOTE: tkinter should be a part of Python’s standard library, so it is not added to requirements.txt. Ensure that you have Python installed with tkinter support to run the GUI application.
+watchdog
